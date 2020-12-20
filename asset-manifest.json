@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Candy_Amazon/static/css/main.1bcbc6b8.chunk.css",
+    "main.js": "/Candy_Amazon/static/js/main.e238802c.chunk.js",
+    "main.js.map": "/Candy_Amazon/static/js/main.e238802c.chunk.js.map",
+    "runtime-main.js": "/Candy_Amazon/static/js/runtime-main.64faf930.js",
+    "runtime-main.js.map": "/Candy_Amazon/static/js/runtime-main.64faf930.js.map",
+    "static/js/2.6dc3917e.chunk.js": "/Candy_Amazon/static/js/2.6dc3917e.chunk.js",
+    "static/js/2.6dc3917e.chunk.js.map": "/Candy_Amazon/static/js/2.6dc3917e.chunk.js.map",
+    "static/js/3.e81bb263.chunk.js": "/Candy_Amazon/static/js/3.e81bb263.chunk.js",
+    "static/js/3.e81bb263.chunk.js.map": "/Candy_Amazon/static/js/3.e81bb263.chunk.js.map",
+    "index.html": "/Candy_Amazon/index.html",
+    "static/css/main.1bcbc6b8.chunk.css.map": "/Candy_Amazon/static/css/main.1bcbc6b8.chunk.css.map",
+    "static/js/2.6dc3917e.chunk.js.LICENSE.txt": "/Candy_Amazon/static/js/2.6dc3917e.chunk.js.LICENSE.txt",
+    "static/media/fsr.2dee015a.png": "/Candy_Amazon/static/media/fsr.2dee015a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64faf930.js",
+    "static/js/2.6dc3917e.chunk.js",
+    "static/css/main.1bcbc6b8.chunk.css",
+    "static/js/main.e238802c.chunk.js"
+  ]
+}
